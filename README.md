@@ -24,8 +24,7 @@ docker push jweissig/alpine-k8s-pod-lb-demo
 https://hub.docker.com/r/jweissig/alpine-k8s-pod-lb-demo
 
 ```sh
-docker pull jweissig/alpine-k8s-pod-lb-demo
-docker run -it -p 5005:5005 --rm alpine-k8s-pod-lb-demo
+docker run -p 5005:5005 --rm jweissig/alpine-k8s-pod-lb-demo
 ```
 
 ##### Connect to localhost
