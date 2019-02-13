@@ -2,6 +2,8 @@
 
 [#56 - Kubernetes General Explanation (screencast)](https://sysadmincasts.com/episodes/56-kubernetes-general-explanation)
 
+![screenshot](https://raw.githubusercontent.com/jweissig/alpine-k8s-pod-lb-demo/master/screenshot.png)
+
 ### Usage
 
 [Live Demo](https://sysadmindemo.com/)
